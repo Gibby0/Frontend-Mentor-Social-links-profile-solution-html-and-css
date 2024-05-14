@@ -20,8 +20,8 @@ This project is a solution to the Product preview card component challenge on Fr
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/social-links-profile-solution-using-html-and-css-_-rc4KwklH)
+- Live Site URL: (https://gibby0.github.io/Frontend-Mentor-Social-links-profile-solution-html-and-css/product.html)
 
 ### Built with
 
